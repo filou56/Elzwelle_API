@@ -1,3 +1,3 @@
-document.getElementById('klickMich').addEventListener('click', () => {
+document.getElementById('Klick Mich').addEventListener('click', () => {
     alert('JavaScript funktioniert!');
 });
